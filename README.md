@@ -17,9 +17,18 @@
 # Description
 
 
-This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS.
+This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS.  This app is powered by javascript as well.
+
+A simple calendar app for scheduling your work day
 
 # Navigation
+The user will be presented with the current date along with a title and short description.
+
+Under the the top of the page on the left will be a times throughout the day. 
+
+Next to the time will be a description box where the user can easily input any information they desire. (These boxes will change color based on past,present,future inputs.)
+
+Once the user is happy with how their schedule is laid out on the page they can simply click the save icon all the way on the right hand side.
 
 
 
