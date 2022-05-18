@@ -26,13 +26,13 @@ This app runs in the browser and lineaments dynamically updated HTML and designe
 
 # Screenshot of site
 <!-- add the right screenshot -->
-![screenshot](./assets/images/.png)
+![screenshot](./assets/images/ss-day-planner.png)
 
 # Links
 
 <!-- add the correct link in the () -->
 
-[Repo link](https://https://github.com/SarahAmel/day-planner)   
+[Repo link](https://github.com/SarahAmel/day-planner)   
 
 
 
